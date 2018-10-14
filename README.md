@@ -20,4 +20,4 @@ class ViewController: UIViewController {
 
 ⬇ Output if only DEBUG flag exists ⬇
 
-`ViewController.swift[viewDidLoad():7] > Hello 12345 2017-09-01 20:25:52 +0000`
+`ViewController.swift-viewDidLoad():7 > Hello 12345 2017-09-01 20:25:52 +0000`
